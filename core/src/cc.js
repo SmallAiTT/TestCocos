@@ -4,7 +4,6 @@
 var __PUBLISH = false;
 //@defineEnd
 
-
 var cc = cc || {};
 if(__PUBLISH){//for publish
     cc.loadGame = function(cb){//do nothing for publish

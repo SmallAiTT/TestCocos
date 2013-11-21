@@ -1,2 +1,1 @@
-var js_core = {
-};
+js.core = {};

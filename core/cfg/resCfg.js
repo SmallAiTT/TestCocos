@@ -6,6 +6,7 @@ cc.resCfg = cc.resCfg || {};
  */
 
 var resCfg = cc.resCfg;
+
 //base for core module
 resCfg["core"] = {
     ref : []
