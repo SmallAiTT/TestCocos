@@ -5,6 +5,7 @@ var __PUBLISH = false;
 //@defineEnd
 
 var cc = cc || {};
+var js = {};
 if(__PUBLISH){//for publish
     cc.loadGame = function(cb){//do nothing for publish
         return cb();
